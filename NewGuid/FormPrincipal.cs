@@ -56,6 +56,7 @@ namespace NewGuid
                     btnCopiar.PerformClick();
                     break;
                 case Keys.N:
+                case Keys.G:
                     btnGerarNovo.PerformClick();
                     break;
                 case Keys.F:
